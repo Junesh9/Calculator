@@ -1,2 +1,3 @@
 # Calculator
  Super_effficient Code
+This code provides a computation with the minimal code requirement...
